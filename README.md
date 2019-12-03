@@ -1,4 +1,4 @@
-Simple image binarizer made as laboratory work at school\n
-Dependencies:\n 
+Simple image binarizer made as laboratory work at school.
+Dependencies: 
   -Kivy
   -Pillow
