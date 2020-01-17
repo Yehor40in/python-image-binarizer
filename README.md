@@ -1,4 +1,8 @@
-Simple image binarizer made as laboratory work at school.
-Dependencies: 
-  -Kivy
-  -Pillow
+# Image Binarizer
+
+Simple image binarizer implemented in python.
+
+# Dependencies
+
+  * Kivy
+  * Pillow
